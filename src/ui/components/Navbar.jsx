@@ -26,7 +26,7 @@ export const Navbar = () => {
                         className={ ({isActive }) => `nav-link ${isActive ? 'active' : ''}`}
                         to="/dc"
                     >
-                        DC
+                        DC 
                     </NavLink>
                 </div>
             </div>
