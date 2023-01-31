@@ -32,7 +32,7 @@ export const HeroCard = ({
 
         <div className="col-8">
 
-          <div className="card body">
+          <div className="card-body">
             <h5 className="card-title">{ superhero }</h5>
             <p className="card-text">{alter_ego}</p>
             {/* {
