@@ -10,7 +10,6 @@ export const LoginPage = () => {
 
   const onLogin = () => {
 
-
     const lastPath = localStorage.getItem('lastPath') || '/';
 
     login('Manuel Sarria');
@@ -32,7 +31,6 @@ export const LoginPage = () => {
       >
         Login
       </button>
-
 
     </div>
   )
